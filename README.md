@@ -16,22 +16,36 @@ A **complete Invoice Management System** built with PHP and MySQL for generating
 
 ## ✨ Core Features
 
+
 ### 📊 Dashboard Analytics
+
 ✅ **Total Revenue** - See all paid invoices amount at a glance
+
 ✅ **Pending Bills Count** - Know exactly how many invoices are open
+
 ✅ **Payment Status Breakdown** - Visual charts of paid vs unpaid
+
 ✅ **Quick Statistics** - Total invoices, users, products
+
 ✅ **Real-time Updates** - Live data calculations
 
 ### 📄 Invoice Management
+
 ✅ Create professional invoices in seconds
+
 ✅ Edit invoices before finalizing
+
 ✅ **Download as PDF** - Generate professional PDF documents
+
 ✅ Track invoice status (Draft, Sent, Paid, Overdue)
+
 ✅ Complete invoice history and search
+
 ✅ Auto-calculate totals with tax support
 
+
 ### 🛍️ Product Management
+
 ✅ Add/edit/delete products and services
 ✅ Set pricing and descriptions
 ✅ Track product inventory
@@ -40,18 +54,28 @@ A **complete Invoice Management System** built with PHP and MySQL for generating
 
 ### 👥 User Management
 ✅ Add/edit/delete users
+
 ✅ Assign different roles
+
 ✅ Track active/inactive users
+
 ✅ Secure login system
 
 ### 🔐 Security Features
+
 ✅ Password-protected login
+
 ✅ Secure session management
+
 ✅ Password hashing
+
 ✅ User authentication
+
 ✅ Access control
 
+
 ### 🌍 Multi-Language Support
+
 - 🇬🇧 English
 - 🇪🇸 Spanish  
 - 🇫🇷 French
